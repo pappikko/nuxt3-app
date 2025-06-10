@@ -8,7 +8,8 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxt/icon',
     '@nuxt/image',
-    '@nuxt/ui'
+    '@nuxt/ui',
+    'vue3-pixi-nuxt'
   ],
 
   // Firebase App Hosting設定
